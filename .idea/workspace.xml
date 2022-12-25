@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82959b2e-3b92-48f0-a0d6-36157b028674" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example-voting-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postgres-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postgres-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-app-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-app-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voting-app-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voting-app-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker-app-pod.yml" afterDir="false" />
-    </list>
+    <list default="true" id="82959b2e-3b92-48f0-a0d6-36157b028674" name="Changes" comment="Kubernetes cluster launch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +39,29 @@
       <option name="presentableId" value="Default" />
       <updated>1671950094616</updated>
     </task>
+    <task id="LOCAL-00001" summary="Kubernetes cluster launch">
+      <created>1671952591018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671952591018</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kubernetes cluster launch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kubernetes cluster launch" />
   </component>
 </project>
